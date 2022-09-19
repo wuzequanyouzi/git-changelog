@@ -13,6 +13,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <div>改一下，fix</div>
     <div>改一下，fix</div>
+    <div>改一下3.0</div>
   </div>
 </template>
 
