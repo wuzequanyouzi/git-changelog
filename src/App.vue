@@ -11,7 +11,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <div>改一下</div>
+    <div>改一下，fix</div>
   </div>
 </template>
 
